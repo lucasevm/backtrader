@@ -1,7 +1,7 @@
 # backtrader
 aprendendo o uso do backtrader
 
-v - módulo main para gerenciar quando roda cada coisa
+Main - módulo main para gerenciar quando roda cada coisa
 
 i - módulo para pegar dados binance (1D, 1H, 15M, o que for necessário)
 
