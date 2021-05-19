@@ -12,4 +12,6 @@ iii - módulo trade comum (RSI stochastic, cruzamento de médias, etc)
 iv - módulo de sentiment trade
 
 v - Put-call parity (arbitrage): https://www.investopedia.com/terms/p/putcallparity.asp#:~:text=Put%2Dcall%20parity%20is%20a,strike%20price%2C%20and%20expiration%20date.
-Nota: Levar em conta o ativo descontado risk-free rate (pode ser stake, selic, etc)
+Nota: Levar em conta o ativo descontado risk-free rate (pode ser stake, selic, etc) https://www.calkoo.com/en/put-call-parity-calculator
+-> Current Price of Underlying Asset = Call Option Price - Put Option Price + PV(x)
+-> Call Option Price + PV(x) = Put Option Price + Current Price of Underlying Asset
