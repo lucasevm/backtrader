@@ -8,6 +8,7 @@ Created on Tue May 18 20:43:17 2021
 import medium
 import requests
 
+
 #Importando e separando todos os símbolos
 r = requests.get('https://api.binance.com/api/v3/exchangeInfo')
 j = r.json()
